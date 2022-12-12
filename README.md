@@ -1,7 +1,7 @@
 # Playstation-Store
 ## Sobre Projeto
 
-Uma pagina do site da Playstation com opção para comprar um controle sem fio do PS5 e de adcionar ao carrinho
+Uma pagina do site da Playstation com opção para comprar um controle sem fio do PS5 e de adicionar ao carrinho
 
 ## Layout Mobile
 
