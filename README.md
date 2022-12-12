@@ -4,6 +4,7 @@
 Uma pagina do site da Playstation com opção para comprar um controle sem fio do PS5 e de adicionar ao carrinho
 
 ## Layout Mobile
+https://github.com/DiegoSilva1919/Playstation-Store/blob/master/assets/Captura%20de%20tela%202022-12-12%20183644.png?raw=true
 
 ## Layout  Web
 
