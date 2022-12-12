@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,100;1,700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Playstation-Store</title>
+</head>
+
+<body>
+    <div class="div">
+        <div class="div-1">
+            <img class="img-logo" src="./img/logo.png" alt="logo-ps5">
+            <nav>
+                <ul id="menu-list">
+                    <li class="li"><a>Console</a></li>
+                    <li class="li" ><a>Accessories</a></li>
+                    <li class="li" ><a>Controls</a></li>
+                    <li class="li" ><a>Other</a></li>
+                </ul>
+            </nav>
+            <img class="img-menu" src="./img/menu.png" alt="menu" onclick="showmenu()">
+        </div>
+
+        <div class="div-2">
+            <div class="div-2-1">
+                <h1>PS5 DUALSHOCK</h1>
+                <H2>Wireless Controlier for Playstation</H2>
+                <h3>Controle Original</h3>
+                <p>R$ 222,50</p>
+                <button class="button-1">Comprar Agora  <img src="./img/arrow.png" alt="seta"></button>
+            </div>
+            <div class="div-2-2">
+                <img class="controller" src="./img/controller.png" alt="controller">
+                <div class="div-button"></div>
+                <button class="button-2">
+                <img src="./img/add.png" alt="+.png">
+                </button>
+            </div>
+        </div>
+
+        <div class="div-3">
+            <img class="img-fb" src="./img/fb.png" alt="facebook">
+            <img class="img-sociais" src="./img/ig.png" alt="instagram">
+            <img class="img-sociais" src="./img/tw.png" alt="twiter">
+        </div>
+    </div>
+</body>
+
+<script>
+    const menulist=document.getElementById('menu-list')
+    menulist.style.maxHeight='0px'
+
+    function showmenu(){
+        if(menulist.style.maxHeight=='0px'){
+            menulist.style.maxHeight='120px'
+        } else{
+            menulist.style.maxHeight='0px'
+        }
+    }
+</script>
+</html>
