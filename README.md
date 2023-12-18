@@ -1,6 +1,6 @@
 # Playstation-Store
 ## Sobre Projeto
-Link do projeto: [[https://diegosilva1919.github.io/Playstation-Store/](https://diegosilva1919.github.io/playstation-store/)](https://dfagundes2001.github.io/playstation-store/)
+Link do projeto:(https://dfagundes2001.github.io/playstation-store/)
 
 Uma pagina do site da Playstation com opção para comprar um controle sem fio do PS5 e de adicionar ao carrinho
 
